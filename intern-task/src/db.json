@@ -1,0 +1,12 @@
+{
+    "datas": [
+        {
+            "id": 1,
+            "layout": "2x3",
+            "name": "subarna",
+            "capacity": "2",
+            "status": "true",
+            "image": "messi.png"
+        }
+    ]
+}

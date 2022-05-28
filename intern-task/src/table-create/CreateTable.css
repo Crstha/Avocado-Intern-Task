@@ -1,0 +1,30 @@
+.container {
+    /* border: 1px solid red; */
+    padding: 30px;
+    margin: 30px 40px;
+}
+
+.row {
+    margin: 20px;
+    /* justify-content: center; */
+}
+
+.col {
+    align-self: center;
+    text-align: right;
+    /* border: 1px solid red; */
+}
+
+
+.checkBox {
+    text-align: left;
+}
+
+.card {
+    border: 3px solid gray;
+}
+
+img {
+    height: 70px;
+    width: 70px;
+}
